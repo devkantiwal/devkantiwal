@@ -26,5 +26,5 @@
 
 ### 📫 Connect With Me
 
-- ![Linkedin](https://www.linkedin.com/in/dev-kantiwal/)
+- ![Linkedin](https://www.linkedin.com/in/dev-kantiwal/)(https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge)
 - Email: ![devkantiwal11@gmail.com](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
