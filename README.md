@@ -1,12 +1,30 @@
-### Hi there 👋
+### 👨‍💻 About Me
 
+- 📱 8+ years building iOS applications
+- 🧠 Strong in system design & app architecture
+- ⚡ Focused on performance, scalability & clean code
+- 🔐 Experience with secure API integrations & token management
+- ☁️ Worked with Firebase, GCP & backend integrations
 
-**devkantiwal/devkantiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Tech Stack
 
-Here are some ideas to get you started:
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge)
+![UIKit](https://img.shields.io/badge/UIKit-black?style=for-the-badge)
+![iOS](https://img.shields.io/badge/iOS-grey?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
 
-- 🔭 I’m currently working on YML
-- 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me: devkanitwal11@gmail.com
-<!--
--->
+### 🧠 Expertise
+
+- Clean Architecture (MVVM, VIPER)
+- Dependency Injection
+- Performance Optimization
+- Async/Await & Concurrency
+- CI/CD (Fastlane, GitHub Actions)
+- Code Quality (SwiftLint, Unit Testing)
+
+### 📫 Connect With Me
+
+- LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/dev-kantiwal/)
+- Email: devkantiwal11@gmail.com
